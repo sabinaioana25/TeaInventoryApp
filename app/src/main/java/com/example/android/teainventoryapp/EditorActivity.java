@@ -1,7 +1,6 @@
 package com.example.android.teainventoryapp;
 
 import android.app.Activity;
-import android.support.v7.app.AlertDialog;
 import android.app.LoaderManager;
 import android.content.ContentResolver;
 import android.content.ContentValues;
@@ -16,6 +15,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.NavUtils;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
