@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TeaInventoryApp</string>
+    <string name="main_page_title">Fancy a cuppa?</string>
+    <string name="main_page_subtitle">Get started by adding tea</string>
+
+    <string name="editor_add_tea_type">Add tea type</string>
+    <string name="editor_update_tea_type">Edit tea item</string>
+
+    <string name="main_category_description">Description</string>
+    <string name="main_category_quantity">Quantity</string>
+    <string name="main_category_price">Price</string>
+
+    <string name="main_hint_tea_type">Tea type</string>
+    <string name="main_hint_brand">Brand</string>
+    <string name="main_hint_price">Price</string>
+
+    <string name="menu_delete_item">Delete</string>
+    <string name="alert_dialog_box_delete_item">Delete this tea?</string>
+
+    <string name="menu_add_inventory">Add inventory</string>
+    <string name="menu_delete_inventory">Clear inventory</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="alert_dialog_box_delete_inventory">Delete all inventory items? This cannot be undone.</string>
+    <string name="editor_order_button">Order More tea</string>
+    <string name="editor_action_save">Save</string>
+    <string name="editor_action_delete">Delete</string>
+    <string name="type_tea">Green tea</string>
+
+    <string name="grid_item_image">Green Tea Image</string>
+    <string name="grid_item_green_tea">Green tea</string>
+    <string name="grid_item_quantity">Quantity</string>
+    <string name="grid_item_price">$6</string>
+    <string name="grid_item_sale_button">SALE</string>
+    <string name="order_email_subject">Tea order</string>
+    <string name="alert_discard_changes">Discard changes?</string>
+    <string name="detail_quantity_negative">Quantity cannot be negative</string>
+</resources>
